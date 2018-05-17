@@ -1,0 +1,20 @@
+{
+  "name": "angular",
+  "description": "gulp构建的angular项目",
+  "main": "",
+  "authors": [
+    "zhangzhen <zhangzhen@tbke.cn>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "angularjs#^1.7.0"
+  }
+}
