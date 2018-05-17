@@ -3,6 +3,8 @@
 
 先安装
 bower install
+
+
 在执行
 cnpm install
 
